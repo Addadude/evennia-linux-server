@@ -1,3 +1,12 @@
+evennia-linux-server/
+├── README.md
+├── docs/
+│   ├── OSI_Model_Cheat_Sheet.md
+│   ├── firewall-notes.md
+│   └── troubleshooting.md
+
+
+
 # evennia-linux-server
 
 Add project documentation for Linux-based Evennia server
