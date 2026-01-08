@@ -7,12 +7,19 @@ sudo ufw enable
 sudo ufw status verbose
 
 (be sure to update your rules accordingly)
+
 Skipping adding existing rule
+
 Skipping adding existing rule (v6)
+
 Firewall is active and enabled on system startup
+
 Status: active
+
 Logging: on (low)
+
 Default: deny (incoming), allow (outgoing), disabled (routed)
+
 New profiles: skip
 
 To                         Action      From
