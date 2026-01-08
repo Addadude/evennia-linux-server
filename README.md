@@ -12,6 +12,8 @@ This document captures real-world troubleshooting experiences while deploying an
 
 [Linux Networking Labs](docs/Linux_Networking_Labs.md)
 
+[Linux-Based Multiplayer Server](docs/Linux_Based_Multiplayer_Server_(Evennia).md)
+
 ---
 
 ## 📡 Networking Issues
