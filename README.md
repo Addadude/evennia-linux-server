@@ -10,7 +10,7 @@ This document captures real-world troubleshooting experiences while deploying an
 
 [Network Topology & Traffic Flow](docs/Network_Topology_And_Traffic_Flow.md)
 
-[Linux Netwoking Labs](Linux_Networking_Labs.md)
+[Linux Networking Labs](docs/Linux_Networking_Labs.md)
 
 ---
 
