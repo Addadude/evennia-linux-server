@@ -53,6 +53,8 @@ This document captures real-world troubleshooting experiences while deploying an
 - Copied files to `/lib/firmware/b43`
 - Restarted network service and verified interface came online
 
+- <
+
 # OSI-Model-Cheat-Sheet
 
 # OSI Model — Practical One-Page Cheat Sheet
