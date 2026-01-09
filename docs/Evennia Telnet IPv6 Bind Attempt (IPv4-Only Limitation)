@@ -18,9 +18,6 @@ ALLOWED_HOSTS = ["*"]
 
 (evenv) [lou@reed mygame]$ ss -tulnp | grep 4000
 tcp   LISTEN 0      50           0.0.0.0:4000      0.0.0.0:*    users:(("twistd",pid=106218,fd=11))
-(evenv) [lou@reed mygame]$ telnet ::1
-Trying ::1...
-telnet: Unable to connect to remote host: Connection refused
 (evenv) [lou@reed mygame]$ telnet ::1 4000
 Trying ::1...
 telnet: Unable to connect to remote host: Connection refused
